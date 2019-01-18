@@ -2,7 +2,7 @@
 
 ## Calibrated
 ### 1. CMU PanopticStudio 3D PointCloud Dataset
-http://domedb.perception.cs.cmu.edu/ptclouddb.html
+http://domedb.perception.cs.cmu.edu/ptclouddb.html  
 - 10 synchronized RGB+D videos
 - 3D point clouds from the 10 RGB+D videos
 - 31 synchronized HD videos from other viewpoints for the same scenes
@@ -11,7 +11,7 @@ http://domedb.perception.cs.cmu.edu/ptclouddb.html
 - Optional: 480 synchronized VGA videos for the same scenes  
 
 ### 2. TUM Multiview Datasets
-https://vision.in.tum.de/data/datasets/3dreconstruction
+https://vision.in.tum.de/data/datasets/3dreconstruction  
 They provide multiple datasets capturing objects from various vantage points. Each entry contains an image sequence, corresponding silhouettes and full calibration parameters. 
 - bird: 21 images
 - beethoven: 33 images
